@@ -1,4 +1,4 @@
-**----- Explanation of Program -----**
+**----- Explanation of Program -----** <br>
 This program allows the user to create a training data set amongst 3 user-chosen categories 
 (for example, the shapes hexagon, heptagon, and octagon) where the user then draws images of 
 such categories to create a training data set. 
@@ -12,7 +12,7 @@ decrease the size of the brush stroke, to save the current training data set, an
 already existing training data set.
 
 
-**----- Modifications Made -----**
+**----- Modifications Made -----** <br>
 I made the following modifications to the program:
 - Added an automated folder hierarchy system to store training data
 - Modified the ordering of the training model rotation
@@ -20,6 +20,6 @@ I made the following modifications to the program:
 - Changed the GUI
 
 
-**----- Acknowledgements -----** 
+**----- Acknowledgements -----** <br>
 The following link was referenced to create this project:
 https://www.youtube.com/watch?v=cwwqDn57LUk
