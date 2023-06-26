@@ -8,7 +8,7 @@ This program allows the user to create a training data set amongst 3 user-chosen
 such categories to create a training data set. 
 
 The user also has the ability to rotate between models to train the program with (such as Random Forest Classifier,
-K-Neibhgours Classifier, Linear SVC, and many more). 
+K-Neighbours Classifier, Linear SVC, and many more). 
 
 Once the program has been trained with the chosen model, it can then classify user-drawn images with relative
 accuracy. This program also provides additional features (to the user) such as the ability to increase and 
